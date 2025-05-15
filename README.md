@@ -1,5 +1,7 @@
-# poke-club-game
-Texas Club Mã nguồn, Văn phòng bạn bè, Văn phòng bạn bè Mã trò chơi, Văn phòng tư nhân+Liên minh, nhiều ngôn ngữ quốc gia, thanh toán usdt, Chơi: Texas Hold'em/6+thẻ ngắn/Omaha/Big Pineapple/MTT/SNG/AOF/Texas Cowboys, Telegram: @xuzongbin001 hoặc E-mail: masterai918@gmail.com
+Texas Hold'em Poker
+德州扑克朋友局源码，私人局，俱乐部代码，美术、代码都有的。比hhpoker、wpkr同类产品、质量更好。产品上线多年，服务器稳定，德州大厅有七八种德州玩法，短牌，大菠萝，MTT，SNG，AOF，奥马哈，以及支持联盟模式。Telegram联系： @xuzongbin001或E-mail：masterai918@gmail.com
+
+Texas Hold'em Poker friend game source code, private game, club code, art, code are all available. Better quality than similar products such as hhpoker and wpkr. The product has been online for many years, the server is stable, and the Texas Hold'em lobby has seven or eight Texas Hold'em games, including short deck, big pineapple, MTT, SNG, AOF, Omaha, and supports alliance mode. Telegram contact: @xuzongbin001 or E-mail: masterai918@gmail.com
 
 ![4房间2-6人桌](https://github.com/user-attachments/assets/2251be94-f3f3-4fd0-870e-0b62ed1b40ee)
 ![4房间2-9人桌](https://github.com/user-attachments/assets/6192a49d-33c4-43bc-af0f-07fb15fdaf72)
